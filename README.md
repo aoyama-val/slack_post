@@ -3,7 +3,8 @@
 ## セットアップ
 
 ```
-git clone 
+git clone --depth 1 https://github.com/aoyama-val/slack_post.git
+cd slack_post
 ```
 
 ## 使い方
